@@ -28,8 +28,9 @@ Lists:
 - HTML Description Lists
 
 ```html
-<ol>
-  <li>Coffee</li>
+<dl>
+  <dt>Coffee</dt>
+  <dd>- black hot drink</dd>
   ...
-</ol>
+</dl>
 ```
