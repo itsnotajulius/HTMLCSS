@@ -19,8 +19,8 @@ Lists:
 - Ordered HTML List
 
 ```html
-<ul>
+<ol>
   <li>Coffee</li>
   ...
-</ul>
+</ol>
 ```
