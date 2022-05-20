@@ -7,6 +7,12 @@
 
 Lists:
 
+| Tags |     | Description |
+| ---- | --- | ----------- |
+| <ul> | B1  | C1          |
+| <ol> | B2  | C2          |
+| A3   | B3  | C3          |
+
 - Unordered HTML List
 
 ```html
