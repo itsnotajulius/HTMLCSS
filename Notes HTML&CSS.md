@@ -24,3 +24,12 @@ Lists:
   ...
 </ol>
 ```
+
+- HTML Description Lists
+
+```html
+<ol>
+  <li>Coffee</li>
+  ...
+</ol>
+```
