@@ -7,11 +7,14 @@
 
 Lists:
 
-| Tags |     | Description |
-| ---- | --- | ----------- |
-| <ul> | B1  | C1          |
-| <ol> | B2  | C2          |
-| A3   | B3  | C3          |
+| Tags   |     | Description |
+| ------ | --- | ----------- | --- |
+| `<ul>` | B1  | C1          |
+| `<ol>` | B2  | C2          |
+| `<li>` | B3  | C3          |
+| <dl>   |     |             |     |
+| <dt>   |     |             |     |
+| <dd>   |     |             |     |
 
 - Unordered HTML List
 
