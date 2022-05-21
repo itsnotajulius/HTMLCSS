@@ -51,7 +51,7 @@
 
 Three types – Ordered lists, Unordered lists and Definition lists
 
-    | Description                            |     | Tags   |
+| Description | | Tags |
 
 | -------------------------------------- | --- | ------ |
 | Unordered List | | `<ul>` |
