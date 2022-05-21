@@ -291,7 +291,7 @@ Background:
 • Background-color: RGB/RGBa/Hex/Names ;
 o Opacity: 0.5 ; - must come after one of the above and is 50%
 Hue, Saturation and Lightness
-Background-colour : hsl(0, 0%, 0%) or background-colour : hsla(0, 0%, 0%, 0.5)
+Background-colour : hsl(0, 100%, 100%, 0.5) or background-colour : hsla(0, 0%, 0%, 0.5)
 • Hue is 0 to 360
 • Saturation is percentage
 • Lightness is percentage with 0% being white
