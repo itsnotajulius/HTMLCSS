@@ -7,18 +7,7 @@
 
 <br>
 
-<h3><b>Lists:</b></h3>
-
-| Description                            |     | Tags   |
-| -------------------------------------- | --- | ------ |
-| Unordered List                         |     | `<ul>` |
-| Ordered List                           |     | `<ol>` |
-| List Item                              |     | `<li>` |
-| Description List                       |     | `<dl>` |
-| Defines a Term in Description List     |     | `<dt>` |
-| Describes the Term in Description List |     | `<dt>` |
-
-<h3>Basic Structure:</h3>
+**<h3>Basic Structure:</h3>**
 
 - `<html>` Shows that what inside is HTML code `</html>`
 - `<title>` Shows the title of the webpage `</title>`
@@ -72,6 +61,17 @@ Definition Lists: (Terms with definition)
 		<dt></dt> - terms
 		<dd></dd> - definition
 	</dl>
+
+<h3><b>Lists:</b></h3>
+
+| Description                            |     | Tags   |
+| -------------------------------------- | --- | ------ |
+| Unordered List                         |     | `<ul>` |
+| Ordered List                           |     | `<ol>` |
+| List Item                              |     | `<li>` |
+| Description List                       |     | `<dl>` |
+| Defines a Term in Description List     |     | `<dt>` |
+| Describes the Term in Description List |     | `<dt>` |
 
 Links:
 Links are created by <a href = “url”>link text</a> element
