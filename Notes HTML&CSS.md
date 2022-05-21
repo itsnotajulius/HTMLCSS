@@ -69,6 +69,8 @@ Eg:
 </dl>
 ```
 
+<br/>
+
 <h3><b>HTTP Methods</b></h3>
 
 - GET
@@ -80,6 +82,8 @@ Eg:
 - OPTIONS
 - CONNECT
 - TRACE
+
+<br/>
 
 Links:
 Links are created by <a href = “url”>link text</a> element
