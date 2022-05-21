@@ -7,15 +7,6 @@
 
 Lists:
 
-| Tags    |     | Description          |
-| ------- | --- | -------------------- |
-| `<ul>`  |     | Defines Unorder List |
-| `<ol>`  |     | C2                   |
-| `<li>`  |     | C3                   |
-| `<dl>`  |     |                      |
-| `<dt>`  |     |                      |
-| `<dd> ` |     |                      |
-
 - Unordered HTML List
 
 ```html
