@@ -50,6 +50,7 @@ Delete through = <del></del>
 Lists
 Three types – Ordered lists, Unordered lists and Definition lists
 Ordered: (Numbered list)
+
 <ol>
 <li></li>
 <li></li>
@@ -85,6 +86,7 @@ mailto = <a href = “mailto: email”></a>
 Opening new window: (add target)
 Target = <a href = “URL” target =”_blank”></a> (must be \_blank for target value)
 Link to a part on webpage: (use id attribute)
+
 <h1 id= ”top”></h1> <id> sets point to jump
 <a href = “#top”></a> <a> jumps you
 Or
@@ -110,6 +112,7 @@ Used to create table <table>....</table>
 Row Maker: <tr> </tr>
 Cell: <td> # or “”</td>
 Spanning cells: <td colspan = “#”> “” <td>
+
 <td rowspan = “#”> “” <td>
 Empty Cell: <td></td>
 Header: <th scope = “col/row”> “”</th>
@@ -184,8 +187,6 @@ o <input type="email" name="emailinput"/> - will want a email
 • Search Input:
 o <input type="search" name="emailinput" placeholder="search"/>
  Placeholder is for what in the text box
-
-
 
 Extra markup:
 
@@ -466,10 +467,14 @@ o Allows you to select if other floats can touch the float clear is in
 o – p{clear: left/right/both/none;}
  None means it can touch both sides
 
-Percent and EM are not Relative Measurements and the size of each doesn’t depend on its parents
-Pixels are not recommended units for specifying size
-Font-family attribute does not help ensure maximum compatibility between web browsers
+## Extra
 
-Bitmaps are img
-Image in pixel on Javascript is canvas
-XMl is svg
+---
+
+- Percent and EM are not Relative Measurements and the size of each doesn’t depend on its parents
+- Pixels are not recommended units for specifying size
+- Font-family attribute does not help ensure maximum compatibility between web browsers
+
+- Bitmaps are img
+- Image in pixel on Javascript is canvas
+- XMl is svg
