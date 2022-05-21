@@ -26,15 +26,15 @@
 
 <h3>Text</h3>
 
-| Description |     | Tags                      |
-| ----------- | --- | ------------------------- |
-| Headers     |     | `<h1>` to `<h6>`          |
-| Paragraphs  |     | ``<p>Makes paragraph</p>` |
-| Bold        |     | `<b></b> `                |
-| Italic      |     | <i></i>`                  |
-| Address     |     | `<address></address>`     |
-| Superscript |     | `<sup></sup>`             |
-| Subscript   |     | `<sub> </sub>`            |
+| Description |     | Tags                     |
+| ----------- | --- | ------------------------ |
+| Headers     |     | `<h1>` to `<h6>`         |
+| Paragraphs  |     | `<p>Makes paragraph</p>` |
+| Bold        |     | `<b></b> `               |
+| Italic      |     | `<i></i>`                |
+| Address     |     | `<address></address>`    |
+| Superscript |     | `<sup></sup>`            |
+| Subscript   |     | `<sub> </sub>`           |
 
 <h3>Empty Elements:</h3>
 
