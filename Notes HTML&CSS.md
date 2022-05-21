@@ -7,14 +7,14 @@
 
 Lists:
 
-| Description      |     | Tags   |
-| ---------------- | --- | ------ |
-| Unordered List   |     | `<ul>` |
-| Ordered List     |     | `<ol>` |
-| List Item        |     | `<li>` |
-| Description List |     | `<dl>` |
-| A2               | B2  | C2     |
-| A3               | B3  | C3     |
+| Description                            |     | Tags   |
+| -------------------------------------- | --- | ------ |
+| Unordered List                         |     | `<ul>` |
+| Ordered List                           |     | `<ol>` |
+| List Item                              |     | `<li>` |
+| Description List                       |     | `<dl>` |
+| Defines a Term in Description List     |     | `<dt>` |
+| Describes the Term in Description List |     | `<dt>` |
 
 - Unordered HTML List
 
