@@ -45,51 +45,28 @@
 | Strikethrough    |     | `<s></s>`                         |
 | Delete through   |     | `<del></del>`                     |
 
-# =
+<br/>
 
-# =
+<h3><b>Lists:</b></h3>
 
-= `
-=
-=
-=
-=
-=
-=
-
-Lists
 Three types – Ordered lists, Unordered lists and Definition lists
-Ordered: (Numbered list)
 
-<ol>
-<li></li>
-<li></li>
+    | Description                            |     | Tags   |
 
-</ol>
-Unordered: (Bullet Point)
-	<ul>
-	<li></li>
-		<ul> - Nested list
-			<li></li>
-		</ul>
-	<li></li>
-</ul>
-Definition Lists: (Terms with definition)
+| -------------------------------------- | --- | ------ |
+| Unordered List | | `<ul>` |
+| Ordered List | | `<ol>` |
+| List Item | | `<li>` |
+| Description List | | `<dl>` |
+| Defines a Term in Description List | | `<dt>` |
+| Describes the Term in Description List | | `<dt>` |
+
+```
 	<dl>
 		<dt></dt> - terms
 		<dd></dd> - definition
 	</dl>
-
-<h3><b>Lists:</b></h3>
-
-| Description                            |     | Tags   |
-| -------------------------------------- | --- | ------ |
-| Unordered List                         |     | `<ul>` |
-| Ordered List                           |     | `<ol>` |
-| List Item                              |     | `<li>` |
-| Description List                       |     | `<dl>` |
-| Defines a Term in Description List     |     | `<dt>` |
-| Describes the Term in Description List |     | `<dt>` |
+```
 
 Links:
 Links are created by <a href = “url”>link text</a> element
