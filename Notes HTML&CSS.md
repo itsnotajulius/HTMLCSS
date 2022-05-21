@@ -24,7 +24,7 @@ Lists:
 - `<title>` Shows the title of the webpage `</title>`
 - `<body>`Anything in here will be displayed on Webpage`</body>`
 
-Text
+<h3>Text</h3>
 Headers = <h1> to <h6> - 6 levels
 Paragraphs = <p>Makes paragraph</p>
 Bold = <b></b>  
