@@ -31,27 +31,31 @@
 
 **<h3>Empty Elements:</h3>**
 
-| Description    |     | Tags                        |
-| -------------- | --- | --------------------------- |
-| Line Break     |     | `<br />`                    |
-| Hori Rule      |     | `<hr />`                    |
-| Quote          |     | `<q></q>`                   |
-| Indented Quote |     | `<blockquote></blockquote>` |
-| Address        |     | `<address></address>`       |
-| Superscript    |     | `<sup></sup>`               |
-| Subscript      |     | `<sub> </sub>`              |
+| Description      |     | Tags                        |
+| ---------------- | --- | --------------------------- |
+| Line Break       |     | `<br />`                    |
+| Hori Rule        |     | `<hr />`                    |
+| Quote            |     | `<q></q>`                   |
+| Indented Quote   |     | `<blockquote></blockquote>` |
+| Abbreviations    |     | `<address></address>`       |
+| Acroynm          |     | `<sup></sup>`               |
+| Referencing      |     | `<sub> </sub>`              |
+| Definition       |     | `<br />`                    |
+| Insert/Underline |     | `<hr />`                    |
+| Strikethrough    |     | `<q></q>`                   |
+| Delete through   |     | `<blockquote></blockquote>` |
 
-=
-=
-=
-=
-Abbreviations = `<abbr title=”...”> </abbr>`
-Acroynm = `<acronym title=”...”></acronym>`
-Referencing = `<cite title = “...”></cite>`
-Definition = `<dfn></dfn>`
-Insert/Underline = `<ins></ins>`
-Strikethrough = `<s></s>`
-Delete through = `<del></del>`
+# =
+
+# =
+
+= `<abbr title=”...”> </abbr>`
+= `<acronym title=”...”></acronym>`
+= `<cite title = “...”></cite>`
+= `<dfn></dfn>`
+= `<ins></ins>`
+= `<s></s>`
+= `<del></del>`
 
 Lists
 Three types – Ordered lists, Unordered lists and Definition lists
