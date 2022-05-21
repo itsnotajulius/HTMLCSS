@@ -126,15 +126,17 @@ Form: <form></form> - Carries the action, method and id attribute
 Action: <form action = “URL”>
 Method: <form action = “URL” method =””>
 
-Adding Text:
-o Text input(single line) (empty element)
- <p> <input type = “text”  name = “username”  size=”15” maxlength=”30” /> </p>
-o Password input (empty element)
- <p> <input type = “password”  name = “password”  size = “15” maxlength = ”30” /> </p>
-o Text Area(multi-line)(doesn’t need <p>)
- <textarea name = “comments” cols =”20” rows = “4”> Enter thoughts <textarea>
-o Hidden Text:
- <input type="hidden" name="bookmark" value="lyrics" />
+### Adding Text:
+
+Text input(single line) (empty element)
+
+<p> <input type = “text”  name = “username”  size=”15” maxlength=”30” /> </p>
+Password input (empty element)
+<p> <input type = “password”  name = “password”  size = “15” maxlength = ”30” /> </p>
+Text Area(multi-line)(doesn’t need <p>)
+<textarea name = “comments” cols =”20” rows = “4”> Enter thoughts <textarea>
+Hidden Text:
+<input type="hidden" name="bookmark" value="lyrics" />
 
 • Making Choices:
 o Radio Buttons(select one)
