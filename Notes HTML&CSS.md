@@ -51,15 +51,14 @@
 
 Three types – Ordered lists, Unordered lists and Definition lists
 
-| Description | | Tags |
-
+| Description                            |     | Tags   |
 | -------------------------------------- | --- | ------ |
-| Unordered List | | `<ul>` |
-| Ordered List | | `<ol>` |
-| List Item | | `<li>` |
-| Description List | | `<dl>` |
-| Defines a Term in Description List | | `<dt>` |
-| Describes the Term in Description List | | `<dt>` |
+| Unordered List                         |     | `<ul>` |
+| Ordered List                           |     | `<ol>` |
+| List Item                              |     | `<li>` |
+| Description List                       |     | `<dl>` |
+| Defines a Term in Description List     |     | `<dt>` |
+| Describes the Term in Description List |     | `<dt>` |
 
 ```
 	<dl>
