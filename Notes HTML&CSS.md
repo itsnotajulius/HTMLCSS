@@ -64,10 +64,9 @@ Eg:
 
 ```html
 <dl>
-  <dt></dt>
-  - terms
-  <dd></dd>
-  - definition
+  <dt>terms</dt>
+
+  <dd>definition</dd>
 </dl>
 ```
 
