@@ -87,10 +87,10 @@ Opening new window: (add target)
 Target = <a href = “URL” target =”_blank”></a> (must be \_blank for target value)
 Link to a part on webpage: (use id attribute)
 
-<h1 id= ”top”></h1> <id> sets point to jump
-<a href = “#top”></a> <a> jumps you
+`<h1 id= ”top”></h1>` sets point to jump
+`<a href = “#top”></a> <a>` jumps you
 Or
-<a href = “URL/#top”></a> <a> jumps you
+`<a href = “URL/#top”></a> <a>` jumps you
 
 Images: (empty elements)
 You must always specify a src attribute to indicate the source of an image and an alt attribute to describe the content of an image.
@@ -108,7 +108,7 @@ Right Size
 Use right resolution
 
 Tables:
-Used to create table <table>....</table>
+Used to create table `<table>....</table>`
 Row Maker: <tr> </tr>
 Cell: <td> # or “”</td>
 Spanning cells: <td colspan = “#”> “” <td>
