@@ -26,20 +26,19 @@ Lists:
 
 <h3>Text</h3>
 
-Headers = <h1> to <h6> - 6 levels
-Paragraphs = <p>Makes paragraph</p>
-Bold = <b></b>  
-Strong = <strong></strong>
-Italic = <i></i>
-Emphasis = <em></em>
-Address = <address></address>
-Superscript = <sup></sup> (eg: <p> 4<sup>th</sup> </p> = 4th)
-Subscript = <sub> </sub> (eg: <p> O<sub>2</sub> </p> = O2)
-Empty Elements:
-Line Break = <br  />
-Hori Rule = <hr />
-Quote = <q></q>
-Indented Quote = <blockquote></blockquote>
+Headers = `<h1>` to `<h6>`
+Paragraphs = `<p>Makes paragraph</p>`
+Bold = `<b></b> `
+Italic = `<i></i>`
+Address = `<address></address>`
+Superscript = `<sup></sup>` (eg: `<p> 4<sup>th</sup> </p>`)
+Subscript = `<sub> </sub>` (eg: `<p> O<sub>2</sub> </p>`)
+
+<h3>Empty Elements:</h3>
+Line Break = `<br  />`
+Hori Rule = `<hr />`
+Quote = `<q></q>`
+Indented Quote = `<blockquote></blockquote>`
 Abbreviations = <abbr title=”...”> </abbr>
 Acroynm = <acronym title=”...”></acronym>
 Referencing = <cite title = “...”></cite>
