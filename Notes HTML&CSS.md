@@ -65,7 +65,6 @@ Eg:
 ```html
 <dl>
   <dt>terms</dt>
-
   <dd>definition</dd>
 </dl>
 ```
