@@ -5,7 +5,7 @@
 
 <a href ="https://www.w3schools.com/colors/colors_picker.asp">HTML COLOR PICKER </a>
 
-<br>
+<br/>
 
 **<h3>Basic Structure:</h3>**
 
@@ -13,7 +13,9 @@
 - `<title>` Shows the title of the webpage `</title>`
 - `<body>`Anything in here will be displayed on Webpage`</body>`
 
-<h3>Text</h3>
+<br/>
+
+**<h3>Text</h3>**
 
 | Description |     | Tags                     |
 | ----------- | --- | ------------------------ |
@@ -25,12 +27,24 @@
 | Superscript |     | `<sup></sup>`            |
 | Subscript   |     | `<sub> </sub>`           |
 
-<h3>Empty Elements:</h3>
+<br/>
 
-Line Break = `<br />`
-Hori Rule = `<hr />`
-Quote = `<q></q>`
-Indented Quote = `<blockquote></blockquote>`
+**<h3>Empty Elements:</h3>**
+
+| Description    |     | Tags                        |
+| -------------- | --- | --------------------------- |
+| Line Break     |     | `<br />`                    |
+| Hori Rule      |     | `<hr />`                    |
+| Quote          |     | `<q></q>`                   |
+| Indented Quote |     | `<blockquote></blockquote>` |
+| Address        |     | `<address></address>`       |
+| Superscript    |     | `<sup></sup>`               |
+| Subscript      |     | `<sub> </sub>`              |
+
+=
+=
+=
+=
 Abbreviations = `<abbr title=”...”> </abbr>`
 Acroynm = `<acronym title=”...”></acronym>`
 Referencing = `<cite title = “...”></cite>`
