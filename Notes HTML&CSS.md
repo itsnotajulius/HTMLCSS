@@ -26,26 +26,15 @@
 
 <h3>Text</h3>
 
-| Description    |     | Tags                      |
-| -------------- | --- | ------------------------- |
-| Headers        |     | `<h1>` to `<h6>`          |
-| Paragraphs     |     | ``<p>Makes paragraph</p>` |
-| Bold           |     | `<b></b> `                |
-| Italic         |     | `<ul>`                    |
-| Unordered List |     | `<ul>`                    |
-| Unordered List |     | `<ul>`                    |
-| Unordered List |     | `<ul>`                    |
-| Unordered List |     | `<ul>`                    |
-| Unordered List |     | `<ul>`                    |
-| Unordered List |     | `<ul>`                    |
-
-=
-=
-=
-= `<i></i>`
-Address = `<address></address>`
-Superscript = `<sup></sup>` (eg: `<p> 4<sup>th</sup> </p>`)
-Subscript = `<sub> </sub>` (eg: `<p> O<sub>2</sub> </p>`)
+| Description |     | Tags                      |
+| ----------- | --- | ------------------------- |
+| Headers     |     | `<h1>` to `<h6>`          |
+| Paragraphs  |     | ``<p>Makes paragraph</p>` |
+| Bold        |     | `<b></b> `                |
+| Italic      |     | <i></i>`                  |
+| Address     |     | `<address></address>`     |
+| Superscript |     | `<sup></sup>`             |
+| Subscript   |     | `<sub> </sub>`            |
 
 <h3>Empty Elements:</h3>
 
