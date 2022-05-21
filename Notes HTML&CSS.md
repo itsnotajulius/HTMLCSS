@@ -71,7 +71,7 @@ Eg:
 
 <h3><b>HTTP Methods</b></h3>
 
-- [ ] GET
+- [x] GET
 - [ ] POST
 - [ ] PUT
 - [ ] HEAD
