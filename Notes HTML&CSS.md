@@ -22,9 +22,10 @@ Lists:
 
 - `<html>` Shows that what inside is HTML code `</html>`
 - `<title>` Shows the title of the webpage `</title>`
-- `<body>`Anything in here will be displayed on Webpage`</body>`
+- `<body>`Anythi in here will be displayed on Webpage`</body>`
 
 <h3>Text</h3>
+
 Headers = <h1> to <h6> - 6 levels
 Paragraphs = <p>Makes paragraph</p>
 Bold = <b></b>  
