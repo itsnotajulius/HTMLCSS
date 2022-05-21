@@ -15,31 +15,3 @@ Lists:
 | Description List                       |     | `<dl>` |
 | Defines a Term in Description List     |     | `<dt>` |
 | Describes the Term in Description List |     | `<dt>` |
-
-- Unordered HTML List
-
-```html
-<ul>
-  <li>Coffee</li>
-  ...
-</ul>
-```
-
-- Ordered HTML List
-
-```html
-<ol>
-  <li>Coffee</li>
-  ...
-</ol>
-```
-
-- HTML Description Lists
-
-```html
-<dl>
-  <dt>Coffee</dt>
-  <dd>- black hot drink</dd>
-  ...
-</dl>
-```
