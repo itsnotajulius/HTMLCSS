@@ -69,6 +69,12 @@ Eg:
 </dl>
 ```
 
+<h3><b>HTTP Methods</b></h3>
+
+- GET
+- POST
+-
+
 Links:
 Links are created by <a href = “url”>link text</a> element
 Uses href attribute
@@ -129,9 +135,9 @@ Method: <form action = “URL” method =””>
 ### Adding Text:
 
 Text input(single line) (empty element)
-
-<p> <input type = “text”  name = “username”  size=”15” maxlength=”30” /> </p>
+`<input type = “text” name = “username” size=”15” maxlength=”30” />`
 Password input (empty element)
+
 <p> <input type = “password”  name = “password”  size = “15” maxlength = ”30” /> </p>
 Text Area(multi-line)(doesn’t need <p>)
 <textarea name = “comments” cols =”20” rows = “4”> Enter thoughts <textarea>
