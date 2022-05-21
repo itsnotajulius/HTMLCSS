@@ -60,11 +60,15 @@ Three types – Ordered lists, Unordered lists and Definition lists
 | Defines a Term in Description List     |     | `<dt>` |
 | Describes the Term in Description List |     | `<dt>` |
 
-```
-	<dl>
-		<dt></dt> - terms
-		<dd></dd> - definition
-	</dl>
+Eg:
+
+```html
+<dl>
+  <dt></dt>
+  - terms
+  <dd></dd>
+  - definition
+</dl>
 ```
 
 Links:
