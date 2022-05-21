@@ -35,17 +35,18 @@ Superscript = `<sup></sup>` (eg: `<p> 4<sup>th</sup> </p>`)
 Subscript = `<sub> </sub>` (eg: `<p> O<sub>2</sub> </p>`)
 
 <h3>Empty Elements:</h3>
-Line Break = `<br  />`
+
+Line Break = `<br />`
 Hori Rule = `<hr />`
 Quote = `<q></q>`
 Indented Quote = `<blockquote></blockquote>`
-Abbreviations = <abbr title=”...”> </abbr>
-Acroynm = <acronym title=”...”></acronym>
-Referencing = <cite title = “...”></cite>
-Definition = <dfn></dfn>
-Insert/Underline = <ins></ins>
-Strikethrough = <s></s>
-Delete through = <del></del>
+Abbreviations = `<abbr title=”...”> </abbr>`
+Acroynm = `<acronym title=”...”></acronym>`
+Referencing = `<cite title = “...”></cite>`
+Definition = `<dfn></dfn>`
+Insert/Underline = `<ins></ins>`
+Strikethrough = `<s></s>`
+Delete through = `<del></del>`
 
 Lists
 Three types – Ordered lists, Unordered lists and Definition lists
