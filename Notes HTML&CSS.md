@@ -71,15 +71,15 @@ Eg:
 
 <h3><b>HTTP Methods</b></h3>
 
-- [x] GET
-- [ ] POST
-- [ ] PUT
-- [ ] HEAD
-- [ ] DELETE
-- [ ] PATCH
-- [ ] OPTIONS
-- [ ] CONNECT
-- [ ] TRACE
+GET
+POST
+PUT
+HEAD
+DELETE
+PATCH
+OPTIONS
+CONNECT
+TRACE
 
 Links:
 Links are created by <a href = “url”>link text</a> element
