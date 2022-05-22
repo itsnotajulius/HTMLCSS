@@ -103,17 +103,17 @@ Eg:
 
 [<p style = "text-align:right"> More Attributes </p>](https://www.w3schools.com/tags/tag_input.asp)
 
-### Select tag
+### Select/Datalist tag
 
 - Drop-down Boxes
 
   - Select and Options
 
   ```html
-  <select attrs...>
+  <select /datalist attrs...>
     <option value="x" , atrris...>Option</option>
     ..
-  </select>
+  </ select/datalist>
   ```
 
   > Note: If the value attribute is not specified, the content will be passed as a value instead.
