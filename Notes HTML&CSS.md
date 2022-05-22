@@ -278,7 +278,7 @@ CSS Selectors:
 o P.note {} – any <p> elements that has class=”note”
 • ID selector – #introduction {} - elements whose ID value is introduction
 • Child selector – li>a {} – any <a> elements in <li>
-• Descendant selector – p a {} – any <a> elemts that sit inside <p>
+• Descendant selector – p a {} – any `<a>` elemts that sit inside <p>
 • Adjacent sibling – h1+p {} – first `<p>` element after `<h1>`
 • General sibling – h1~p {} - any `<p>` elements after `<h1>`
 Attribute Selectors:
