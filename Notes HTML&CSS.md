@@ -161,16 +161,7 @@ Method: <form action = “URL” method =””>
 
 <br/>
 
-### Adding Text:
-
-Text Area(multi-line)(doesn’t need `<p>`)
-`<textarea name = “comments” cols =”20” rows = “4”> Enter thoughts <textarea>`
-Hidden Text:
-`<input type="hidden" name="bookmark" value="lyrics" />`
-
 Making Choices:
-Radio Buttons(select one)
-`<p><input type="radio" name = "genre" value = "pop" checked ="checked"> Pop </p>`
 Checkboxes(select one or more)
 `<p> <input type="checkbox" name="site" value="itunes" checked="checked" /> Itunes </p>`
 Drop-down Boxes
@@ -220,6 +211,13 @@ Image buttons
 - Search Input:
   - `<input type="search" name="emailinput" placeholder="search"/>`
     <p>Placeholder is for what in the text box</p>
+
+<br/>
+
+### Adding Text:
+
+Text Area(multi-line)(doesn’t need `<p>`)
+`<textarea name = “comments” cols =”20” rows = “4”> Enter thoughts <textarea>`
 
 Extra markup:
 
