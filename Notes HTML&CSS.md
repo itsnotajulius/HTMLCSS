@@ -161,10 +161,6 @@ Method: <form action = “URL” method =””>
 
 <br/>
 
-Making Choices:
-Checkboxes(select one or more)
-`<p> <input type="checkbox" name="site" value="itunes" checked="checked" /> Itunes </p>`
-
 <br/>
 
 ### Select tag
