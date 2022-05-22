@@ -146,7 +146,7 @@ Method: <form action = “URL” method =””>
 
 ### Input tag
 
-| Types | || |
+| Types | ||| |
 | ------ | -------------- || -------- |
 | button | time || date |
 | datetime-local | || email |
