@@ -146,15 +146,18 @@ Method: <form action = “URL” method =””>
 
 ### Input tag
 
-| Types          |     |        |     |                                                           |
-| -------------- | --- | ------ | --- | --------------------------------------------------------- |
-| button         |     | time   |     | date                                                      |
-| datetime-local |     | week   |     | email                                                     |
-| file           |     | hidden |     | image                                                     |
-| month          |     | number |     | password                                                  |
-| radio          |     | range  |     | reset                                                     |
-| search         |     | submit |     | tel                                                       |
-| text           |     | url    |     | [More info](https://www.w3schools.com/tags/tag_input.asp) |
+- <input.../>
+
+| Types Attributes |     |        |     |                                                                 |
+| ---------------- | --- | ------ | --- | --------------------------------------------------------------- |
+| button           |     | time   |     | date                                                            |
+| datetime-local   |     | week   |     | email                                                           |
+| file             |     | hidden |     | image                                                           |
+| month            |     | number |     | password                                                        |
+| radio            |     | range  |     | reset                                                           |
+| search           |     | submit |     | tel                                                             |
+| text             |     | url    |     |                                                                 |
+|                  |     |        |     | [More Attributes](https://www.w3schools.com/tags/tag_input.asp) |
 
 <br/>
 
