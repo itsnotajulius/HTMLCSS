@@ -128,9 +128,13 @@ Used to create an HTML form for user input.
 
 - `<form attris...> Elements </form>` - Sets the action, method, etc
 
-  - Elements:
+| Elements |     |
+| -------- | --- | --- |
+| A1       | B1  | C1  |
+| A2       | B2  | C2  |
+| A3       | B3  | C3  |
 
-  [<p style ="text-align:right">More</p>](https://www.w3schools.com/tags/tag_form.asp)
+[<p style ="text-align:right">More</p>](https://www.w3schools.com/tags/tag_form.asp)
 
 <br/>
 
