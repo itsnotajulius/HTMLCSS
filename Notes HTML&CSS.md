@@ -172,12 +172,10 @@ Checkboxes(select one or more)
 - Drop-down Boxes
   - Select and Options
 
-```
+```html
 <select attrs...>
-  <option value = "phone"> Phone </option>
-  <option value = "radio"> Radio </option>
-  <option value = "computer"> Computer </option>
-  <option value = "pad"> Pad </option>
+  <option value="x" , atrris...>Option</option>
+  ..
 </select>
 ```
 
