@@ -158,9 +158,7 @@ Method: <form action = “URL” method =””>
 | search           |     | submit |     | tel      |
 | text             |     | url    |     |          |
 
-[<p style = "text-align:right"> More Attributes </p>](https://www.w3schools.com/tags/tag_input.asp) |
-
-<br/>
+[<p style = "text-align:right"> More Attributes </p>](https://www.w3schools.com/tags/tag_input.asp)
 
 <br/>
 
