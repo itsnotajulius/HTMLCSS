@@ -146,17 +146,15 @@ Method: <form action = “URL” method =””>
 
 ### Input tag
 
-| Types  |                |        |
-| ------ | -------------- | ------ |
-| button | button         | button |
-| date   | datetime-local | email  |
-| file   | hidden         | image  |
-| button | button         | button |
-| date   | datetime-local | email  |
-| file   | hidden         | image  |
-| button | button         | button |
-| date   | datetime-local | email  |
-| file   | hidden         | image  |
+| Types  |                |          |
+| ------ | -------------- | -------- |
+| button | time           | button   |
+| date   | datetime-local | email    |
+| file   | hidden         | image    |
+| month  | number         | password |
+| radio  | range          | reset    |
+| search | submit         | tel      |
+| text   | url            | week     |
 
 <input type="month">
 <input type="number">
