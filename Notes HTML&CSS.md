@@ -122,17 +122,12 @@ Eg:
 
 <br/>
 
-### Button tag
+### Form tag
 
-[<p style ="text-align:right">More</p>](https://www.w3schools.com/tags/tag_select.asp)
-
-<br/>
-
-Forms:
-Form Structure:
 Form: <form></form> - Carries the action, method and id attribute
 Action: <form action = “URL”>
 Method: <form action = “URL” method =””>
+<br/>
 
 <br/>
 
