@@ -264,18 +264,17 @@ Declarations how elements are styled - font-family: Arial (two parts - property:
 
 <br/>
 
-Using external CSS
+Using external CSS file
 
 - Use <link ..... /> with href, type and rel
-- Href = “cssfile.css” – path to CSS file
-- Type=”text/css” – specifies the type of document being linked to, should be “text/css”
-- Rel = “stylesheet” –relationship between HTML page and file. Its “stylesheet” for CSS
+  - Href = “cssfile.css”
+  - Type = ”text/css”
+  - Rel = “stylesheet”
 
 Using internal CSS:
 
 - Use `<style ...>` CSS code{} `</style>` - normally in Html `<head>` element
-- type = ”text/css” – must be used to specify CSS
-  Comments: /_ ....._/.
+- type = ”text/css”
 
 ### CSS Selectors:
 
@@ -496,6 +495,7 @@ o – p{clear: left/right/both/none;}
 
 ---
 
+- Comments: /_ ....._/.
 - Percent and EM are not Relative Measurements and the size of each doesn’t depend on its parents
 - Pixels are not recommended units for specifying size
 - Font-family attribute does not help ensure maximum compatibility between web browsers
