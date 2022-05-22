@@ -146,11 +146,11 @@ Method: <form action = “URL” method =””>
 
 ### Input tag
 
-| Types  |        |     |
-| ------ | ------ | --- |
-| button | button | C1  |
-| A2     | B2     | C2  |
-| A3     | B3     | C3  |
+| Types  |        |        |
+| ------ | ------ | ------ |
+| button | button | button |
+| A2     | B2     | C2     |
+| A3     | B3     | C3     |
 
 ### Adding Text:
 
