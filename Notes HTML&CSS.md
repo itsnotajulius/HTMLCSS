@@ -160,8 +160,6 @@ Method: <form action = “URL” method =””>
 
 [<p style = "text-align:right"> More Attributes </p>](https://www.w3schools.com/tags/tag_input.asp)
 
-<br/>
-
 ### Select tag
 
 - Drop-down Boxes
@@ -178,6 +176,8 @@ Method: <form action = “URL” method =””>
   > Note: If the value attribute is not specified, the content will be passed as a value instead.
 
   [<p style ="text-align:right">More</p>](https://www.w3schools.com/tags/tag_select.asp)
+
+<br/>
 
 ### Uploading Files:
 
