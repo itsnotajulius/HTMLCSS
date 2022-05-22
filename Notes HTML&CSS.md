@@ -110,7 +110,7 @@ Eg:
   - Select and Options
 
   ```html
-  <select /datalist attrs...>
+  <select/datalist attrs...>
     <option value="x" , atrris...>Option</option>
     ..
   </ select/datalist>
