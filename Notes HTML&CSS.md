@@ -127,6 +127,9 @@ Eg:
 Used to create an HTML form for user input.
 
 - `<form attris...> Elements </form>` - Sets the action, method, etc
+
+  - Elements:
+
   [<p style ="text-align:right">More</p>](https://www.w3schools.com/tags/tag_form.asp)
 
 <br/>
