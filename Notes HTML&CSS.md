@@ -148,16 +148,17 @@ Method: <form action = “URL” method =””>
 
 - `<input attri's...>`
 
-| Types Attributes |     |        |     |                                                                 |
-| ---------------- | --- | ------ | --- | --------------------------------------------------------------- |
-| button           |     | time   |     | date                                                            |
-| datetime-local   |     | week   |     | email                                                           |
-| file             |     | hidden |     | image                                                           |
-| month            |     | number |     | password                                                        |
-| radio            |     | range  |     | reset                                                           |
-| search           |     | submit |     | tel                                                             |
-| text             |     | url    |     |                                                                 |
-|                  |     |        |     | [More Attributes](https://www.w3schools.com/tags/tag_input.asp) |
+| Types Attributes |     |        |     |          |
+| ---------------- | --- | ------ | --- | -------- |
+| button           |     | time   |     | date     |
+| datetime-local   |     | week   |     | email    |
+| file             |     | hidden |     | image    |
+| month            |     | number |     | password |
+| radio            |     | range  |     | reset    |
+| search           |     | submit |     | tel      |
+| text             |     | url    |     |          |
+
+[<p style = "text-align:right"> More Attributes </p>](https://www.w3schools.com/tags/tag_input.asp) |
 
 <br/>
 
@@ -166,15 +167,19 @@ Method: <form action = “URL” method =””>
 ### Select tag
 
 - Drop-down Boxes
+
   - Select and Options
+
   ```html
   <select attrs...>
     <option value="x" , atrris...>Option</option>
     ..
   </select>
   ```
-  [<p style ="text-align:right">More</p>]()
+
   > Note: If the value attribute is not specified, the content will be passed as a value instead.
+
+  [<p style ="text-align:right">More</p>](https://www.w3schools.com/tags/tag_select.asp)
 
 ### Uploading Files:
 
