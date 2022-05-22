@@ -17,15 +17,15 @@
 
 **<h3>Text</h3>**
 
-| Description |     | Tags                     |
-| ----------- | --- | ------------------------ |
-| Headers     |     | `<h1>` to `<h6>`         |
-| Paragraphs  |     | `<p>Makes paragraph</p>` |
-| Bold        |     | `<b></b> `               |
-| Italic      |     | `<i></i>`                |
-| Address     |     | `<address></address>`    |
-| Superscript |     | `<sup></sup>`            |
-| Subscript   |     | `<sub> </sub>`           |
+| Description |     | Tags                  |
+| ----------- | --- | --------------------- |
+| Headers     |     | `<h1>` - `<h6>`       |
+| Paragraphs  |     | `<p>`Paragraph`</p>`  |
+| Bold        |     | `<b></b> `            |
+| Italic      |     | `<i></i>`             |
+| Address     |     | `<address></address>` |
+| Superscript |     | `<sup></sup>`         |
+| Subscript   |     | `<sub> </sub>`        |
 
 <br/>
 
@@ -126,17 +126,15 @@ Eg:
 
 Used to create an HTML form for user input.
 
-- `<form attris...> Elements </form>` - Sets the action, method, etc
+- `<form attris...>` Elements `</form>` - Sets the action, method, etc
 
   | Elements     |              |              |
   | ------------ | ------------ | ------------ |
   | `<input>`    | `<textarea>` | `<button>`   |
-  | `<select>`   | `<option>`   | `<optgroup>` |
+  | `<select>`   | `<datalist>` | `<optgroup>` |
   | `<fieldset>` | `<label>`    | `<output>`   |
 
 [<p style ="text-align:right">More</p>](https://www.w3schools.com/tags/tag_form.asp)
-
-<br/>
 
 <br/>
 
