@@ -124,9 +124,10 @@ Eg:
 
 ### Form tag
 
-Form: <form></form> - Carries the action, method and id attribute
-Action: <form action = “URL”>
-Method: <form action = “URL” method =””>
+Used to create an HTML form for user input.
+
+- `<form attris...> Elements </form>` - Carries the action, method, etc
+
 <br/>
 
 <br/>
