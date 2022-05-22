@@ -173,8 +173,8 @@ Method: <form action = “URL” method =””>
     ..
   </select>
   ```
-
-> Note: If the value attribute is not specified, the content will be passed as a value instead.
+  [<p style ="text-align:right">More</p>]()
+  > Note: If the value attribute is not specified, the content will be passed as a value instead.
 
 ### Uploading Files:
 
