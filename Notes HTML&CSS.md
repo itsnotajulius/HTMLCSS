@@ -146,7 +146,7 @@ Method: <form action = “URL” method =””>
 
 ### Input tag
 
-- <input.../>
+- <input attri's.../>
 
 | Types Attributes |     |        |     |                                                                 |
 | ---------------- | --- | ------ | --- | --------------------------------------------------------------- |
