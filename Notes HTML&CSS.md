@@ -184,26 +184,27 @@ Image buttons
 • Custom Buttons: (text with pic button)
 `<button><img src="images/add.gif" alt="add" width="10" height="10" /> Add </button>`
 
-• Labeling
-o The “for” in label allow you to click on the text and and it will also select. Works with “id” and “for” values
+- Labeling
+  - The “for” in label allow you to click on the text and and it will also select. Works with “id” and “for” values
+
 `<label> Age: <input type=”text” name=”age” /> </label>`
 `<input id=”pop” type="radio" name = "genre" value = "p" checked ="checked">` `<label for=”pop”>POP</label>`
-• Grouping Elements:
 
-<fieldset>....</fieldset> - This groups them
-Header: <legend> “” </legend> - this names the grouping
-
+- Grouping Elements:
+  - `<fieldset>....</fieldset>` - This groups them
+- Header:
+  - `<legend> “” </legend>` - this names the grouping
 - Form Validation:
   - `<input type = "password" name = "password" size = "15" maxlength = "30" required="required"/>`
 - Date Input:
-- - `<input type="date" name="todaydate"/>` - will make date box
+  - `<input type="date" name="todaydate"/>` - will make date box
 - URL Input:
   - `<input type="url" name="urllink"/>` - will want a url
 - Email Input:
   - `<input type="email" name="emailinput"/>` - will want a email
 - Search Input:
   - `<input type="search" name="emailinput" placeholder="search"/>`
-     Placeholder is for what in the text box
+    <p>Placeholder is for what in the text box</p>
 
 Extra markup:
 
