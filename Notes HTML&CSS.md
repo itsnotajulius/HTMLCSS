@@ -171,13 +171,12 @@ Checkboxes(select one or more)
 
 - Drop-down Boxes
   - Select and Options
-
-```html
-<select attrs...>
-  <option value="x" , atrris...>Option</option>
-  ..
-</select>
-```
+  ```html
+  <select attrs...>
+    <option value="x" , atrris...>Option</option>
+    ..
+  </select>
+  ```
 
 > Note: If the value attribute is not specified, the content will be passed as a value instead.
 
