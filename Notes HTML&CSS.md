@@ -273,8 +273,8 @@ Using external CSS
 
 Using internal CSS:
 
-- Use `<style ...>` CSS code{} `</style>` - normally in `<head>` element
-- type =”text/css” – must be used to specify CSS
+- Use `<style ...>` CSS code{} `</style>` - normally in Html `<head>` element
+- type = ”text/css” – must be used to specify CSS
   Comments: /_ ....._/.
 
 ### CSS Selectors:
