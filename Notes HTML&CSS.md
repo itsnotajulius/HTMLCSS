@@ -164,6 +164,7 @@ Method: <form action = “URL” method =””>
 Making Choices:
 Checkboxes(select one or more)
 `<p> <input type="checkbox" name="site" value="itunes" checked="checked" /> Itunes </p>`
+
 Drop-down Boxes
 Select and Options
 Mupltiple lets you select more than one
