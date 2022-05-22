@@ -181,6 +181,8 @@ Checkboxes(select one or more)
 </select>
 ```
 
+> Note: If the value attribute is not specified, the content will be passed as a value instead.
+
 ### Uploading Files:
 
 File upload
