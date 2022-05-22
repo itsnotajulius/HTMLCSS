@@ -142,6 +142,10 @@ Form: <form></form> - Carries the action, method and id attribute
 Action: <form action = “URL”>
 Method: <form action = “URL” method =””>
 
+<br/>
+
+### Input tag
+
 ### Adding Text:
 
 Text input(single line) (empty element)
