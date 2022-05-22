@@ -128,11 +128,11 @@ Used to create an HTML form for user input.
 
 - `<form attris...> Elements </form>` - Sets the action, method, etc
 
-| Elements     |              |
-| ------------ | ------------ | ------------ |
-| `<input>`    | `<textarea>` | `<button>`   |
-| `<select>`   | `<option>`   | `<optgroup>` |
-| `<fieldset>` | `<label>`    | `<output>`   |
+  | Elements     |              |              |
+  | ------------ | ------------ | ------------ |
+  | `<input>`    | `<textarea>` | `<button>`   |
+  | `<select>`   | `<option>`   | `<optgroup>` |
+  | `<fieldset>` | `<label>`    | `<output>`   |
 
 [<p style ="text-align:right">More</p>](https://www.w3schools.com/tags/tag_form.asp)
 
