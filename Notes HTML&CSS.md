@@ -148,29 +148,31 @@ Text input(single line) (empty element)
 `<input type = “text” name = “username” size=”15” maxlength=”30” />`
 Password input (empty element)
 `<p> <input type = “password” name = “password” size = “15” maxlength = ”30” /> </p>`
-Text Area(multi-line)(doesn’t need <p>)
-<textarea name = “comments” cols =”20” rows = “4”> Enter thoughts <textarea>
+Text Area(multi-line)(doesn’t need `<p>`)
+`<textarea name = “comments” cols =”20” rows = “4”> Enter thoughts <textarea>`
 Hidden Text:
-<input type="hidden" name="bookmark" value="lyrics" />
+`<input type="hidden" name="bookmark" value="lyrics" />`
 
-• Making Choices:
-o Radio Buttons(select one)
- <p><input type="radio" name = "genre" value = "pop" checked ="checked"> Pop </p>
-o Checkboxes(select one or more)
- <p> <input type="checkbox" name="site" value="itunes" checked="checked" /> Itunes </p>
-o Drop-down Boxes
- Select and Options
- Mupltiple lets you select more than one
- <select name="devices" size="3" multiple="multiple">
+Making Choices:
+Radio Buttons(select one)
+`<p><input type="radio" name = "genre" value = "pop" checked ="checked"> Pop </p>`
+Checkboxes(select one or more)
+`<p> <input type="checkbox" name="site" value="itunes" checked="checked" /> Itunes </p>`
+Drop-down Boxes
+Select and Options
+Mupltiple lets you select more than one
+<select name="devices" size="3" multiple="multiple">
 
 <option value = "phone"> Phone </option>
 <option value = "radio"> Radio </option>
 <option value = "computer"> Computer </option>
 <option value = "pad"> Pad </option>
 </select>
-•	Uploading Files:
-o	File upload
-	<input type="file" name="user-song" />
+
+### Uploading Files:
+
+File upload
+<input type="file" name="user-song" />
 
 • Submitting Forms:
 o Submit button
