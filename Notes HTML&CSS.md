@@ -156,6 +156,8 @@ Method: <form action = “URL” method =””>
 | search         |     | submit |     | tel      |
 | text           |     | url    |     | week     |
 
+[More info]()
+
 <br/>
 
 ### Adding Text:
