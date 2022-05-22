@@ -172,39 +172,38 @@ Mupltiple lets you select more than one
 ### Uploading Files:
 
 File upload
-<input type="file" name="user-song" />
+`<input type="file" name="user-song" />`
 
 • Submitting Forms:
-o Submit button
- <input type="submit" name ="upload" value="Upload" />
+Submit button
+`<input type="submit" name ="upload" value="Upload" />`
 • Value give the button the name
-o Image buttons
- <input type="image" src = "File Destination" width="100" height="20" />
+Image buttons
+`<input type="image" src = "File Destination" width="100" height="20" />`
 
 • Custom Buttons: (text with pic button)
-o <button><img src="images/add.gif" alt="add" width="10" height="10" /> Add </button>
+`<button><img src="images/add.gif" alt="add" width="10" height="10" /> Add </button>`
 
 • Labeling
 o The “for” in label allow you to click on the text and and it will also select. Works with “id” and “for” values
-o <label> Age: <input type=”text” name=”age” /> </label>
-o <input id=”pop” type="radio" name = "genre" value = "p" checked ="checked">
- <label for=”pop”>POP</label>
+`<label> Age: <input type=”text” name=”age” /> </label>`
+`<input id=”pop” type="radio" name = "genre" value = "p" checked ="checked">` `<label for=”pop”>POP</label>`
 • Grouping Elements:
-o <fieldset>....</fieldset> - This groups them
-o Header: <legend> “” </legend> - this names the grouping
 
-• Form Validation:
-o <input type = "password"  name = "password"  size = "15" maxlength = "30" required="required"/>
- Just add that.
-• Date Input:
-o <input type="date" name="todaydate"/> - will make date box
-• URL Input:
-o <input type="url" name="urllink"/> - will want a url
-• Email Input:
-o <input type="email" name="emailinput"/> - will want a email
-• Search Input:
-o <input type="search" name="emailinput" placeholder="search"/>
- Placeholder is for what in the text box
+<fieldset>....</fieldset> - This groups them
+Header: <legend> “” </legend> - this names the grouping
+
+- Form Validation:
+  - `<input type = "password" name = "password" size = "15" maxlength = "30" required="required"/>`
+- Date Input:
+- - `<input type="date" name="todaydate"/>` - will make date box
+- URL Input:
+  - `<input type="url" name="urllink"/>` - will want a url
+- Email Input:
+  - `<input type="email" name="emailinput"/>` - will want a email
+- Search Input:
+  - `<input type="search" name="emailinput" placeholder="search"/>`
+     Placeholder is for what in the text box
 
 Extra markup:
 
