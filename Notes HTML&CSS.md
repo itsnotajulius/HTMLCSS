@@ -85,6 +85,87 @@ Eg:
 
 <br/>
 
+<br/>
+
+### Input tag
+
+- `<input attri's...>`
+
+| Types Attributes |     |        |     |          |
+| ---------------- | --- | ------ | --- | -------- |
+| button           |     | time   |     | date     |
+| datetime-local   |     | week   |     | email    |
+| file             |     | hidden |     | image    |
+| month            |     | number |     | password |
+| radio            |     | range  |     | reset    |
+| search           |     | submit |     | tel      |
+| text             |     | url    |     |          |
+
+[<p style = "text-align:right"> More Attributes </p>](https://www.w3schools.com/tags/tag_input.asp)
+
+### Select tag
+
+- Drop-down Boxes
+
+  - Select and Options
+
+  ```html
+  <select attrs...>
+    <option value="x" , atrris...>Option</option>
+    ..
+  </select>
+  ```
+
+  > Note: If the value attribute is not specified, the content will be passed as a value instead.
+
+  [<p style ="text-align:right">More</p>](https://www.w3schools.com/tags/tag_select.asp)
+
+<br/>
+
+### Select tag
+
+<br/>
+
+Forms:
+Form Structure:
+Form: <form></form> - Carries the action, method and id attribute
+Action: <form action = “URL”>
+Method: <form action = “URL” method =””>
+
+<br/>
+
+### Uploading Files:
+
+File upload
+`<input type="file" name="user-song" />`
+
+• Custom Buttons: (text with pic button)
+`<button><img src="images/add.gif" alt="add" width="10" height="10" /> Add </button>`
+
+- Labeling
+  - The “for” in label allow you to click on the text and and it will also select. Works with “id” and “for” values
+
+`<label> Age: <input type=”text” name=”age” /> </label>`
+`<input id=”pop” type="radio" name = "genre" value = "p" checked ="checked">` `<label for=”pop”>POP</label>`
+
+- Grouping Elements:
+  - `<fieldset>....</fieldset>` - This groups them
+- Header:
+  - `<legend> “” </legend>` - this names the grouping
+- Form Validation:
+  - `<input type = "password" name = "password" size = "15" maxlength = "30" required="required"/>`
+- Date Input:
+  - `<input type="date" name="todaydate"/>` - will make date box
+- URL Input:
+  - `<input type="url" name="urllink"/>` - will want a url
+- Email Input:
+  - `<input type="email" name="emailinput"/>` - will want a email
+- Search Input:
+  - `<input type="search" name="emailinput" placeholder="search"/>`
+    <p>Placeholder is for what in the text box</p>
+
+<br/>
+
 Links:
 Links are created by <a href = “url”>link text</a> element
 Uses href attribute
@@ -135,88 +216,6 @@ Long Tables (Should sit in)
 Headings: <thead></thead>
 Body: <tbody></tbody>
 Footer: <tfoot></tfoot>
-
-Forms:
-Form Structure:
-Form: <form></form> - Carries the action, method and id attribute
-Action: <form action = “URL”>
-Method: <form action = “URL” method =””>
-
-<br/>
-
-### Input tag
-
-- `<input attri's...>`
-
-| Types Attributes |     |        |     |          |
-| ---------------- | --- | ------ | --- | -------- |
-| button           |     | time   |     | date     |
-| datetime-local   |     | week   |     | email    |
-| file             |     | hidden |     | image    |
-| month            |     | number |     | password |
-| radio            |     | range  |     | reset    |
-| search           |     | submit |     | tel      |
-| text             |     | url    |     |          |
-
-[<p style = "text-align:right"> More Attributes </p>](https://www.w3schools.com/tags/tag_input.asp)
-
-### Select tag
-
-- Drop-down Boxes
-
-  - Select and Options
-
-  ```html
-  <select attrs...>
-    <option value="x" , atrris...>Option</option>
-    ..
-  </select>
-  ```
-
-  > Note: If the value attribute is not specified, the content will be passed as a value instead.
-
-  [<p style ="text-align:right">More</p>](https://www.w3schools.com/tags/tag_select.asp)
-
-<br/>
-
-### Uploading Files:
-
-File upload
-`<input type="file" name="user-song" />`
-
-• Submitting Forms:
-Submit button
-`<input type="submit" name ="upload" value="Upload" />`
-• Value give the button the name
-Image buttons
-`<input type="image" src = "File Destination" width="100" height="20" />`
-
-• Custom Buttons: (text with pic button)
-`<button><img src="images/add.gif" alt="add" width="10" height="10" /> Add </button>`
-
-- Labeling
-  - The “for” in label allow you to click on the text and and it will also select. Works with “id” and “for” values
-
-`<label> Age: <input type=”text” name=”age” /> </label>`
-`<input id=”pop” type="radio" name = "genre" value = "p" checked ="checked">` `<label for=”pop”>POP</label>`
-
-- Grouping Elements:
-  - `<fieldset>....</fieldset>` - This groups them
-- Header:
-  - `<legend> “” </legend>` - this names the grouping
-- Form Validation:
-  - `<input type = "password" name = "password" size = "15" maxlength = "30" required="required"/>`
-- Date Input:
-  - `<input type="date" name="todaydate"/>` - will make date box
-- URL Input:
-  - `<input type="url" name="urllink"/>` - will want a url
-- Email Input:
-  - `<input type="email" name="emailinput"/>` - will want a email
-- Search Input:
-  - `<input type="search" name="emailinput" placeholder="search"/>`
-    <p>Placeholder is for what in the text box</p>
-
-<br/>
 
 ### Adding Text:
 
