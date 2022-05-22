@@ -262,23 +262,30 @@ CSS rules contains two parts selector and declaration
 Selectors indicate which elements it applies – p{....declarations ; declaration}
 Declarations how elements are styled - font-family: Arial (two parts - property: value)
 
+<br/>
+
 Using external CSS
-• Use <link ..... /> with href, type and rel
-o Href = “cssfile.css” – path to CSS file
-o Type=”text/css” – specifies the type of document being linked to, should be “text/css”
-o Rel = “stylesheet” –relationship between HTML page and file. Its “stylesheet” for CSS
+
+- Use <link ..... /> with href, type and rel
+- Href = “cssfile.css” – path to CSS file
+- Type=”text/css” – specifies the type of document being linked to, should be “text/css”
+- Rel = “stylesheet” –relationship between HTML page and file. Its “stylesheet” for CSS
+
 Using internal CSS:
-• Use <style ...> CSS code{} </style> - normally in <head> element
-o type =”text/css” – must be used to specify CSS
-Comments: /_ ....._/.
-CSS Selectors:
+
+- Use `<style ...>` CSS code{} `</style>` - normally in `<head>` element
+- type =”text/css” – must be used to specify CSS
+  Comments: /_ ....._/.
+
+### CSS Selectors:
+
 • Universal Selector - _{} – all <> elements
 • Type selector – h1, p ,h2 {} – all `<h1>, <h2>, <p>`
 • Class selector -.note {} – any element that has class=”note”
-o P.note {} – any <p> elements that has class=”note”
+o P.note {} – any `<p>` elements that has class=”note”
 • ID selector – #introduction {} - elements whose ID value is introduction
-• Child selector – li>a {} – any <a> elements in <li>
-• Descendant selector – p a {} – any `<a>` elemts that sit inside <p>
+• Child selector – li>a {} – any `<a>` elements in `<li>`
+• Descendant selector – p a {} – any `<a>` elemts that sit inside `<p>`
 • Adjacent sibling – h1+p {} – first `<p>` element after `<h1>`
 • General sibling – h1~p {} - any `<p>` elements after `<h1>`
 Attribute Selectors:
