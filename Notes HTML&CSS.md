@@ -273,14 +273,14 @@ o type =”text/css” – must be used to specify CSS
 Comments: /_ ....._/.
 CSS Selectors:
 • Universal Selector - _{} – all <> elements
-• Type selector – h1, p ,h2 {} – all <h1>, <h2>, <p>
+• Type selector – h1, p ,h2 {} – all `<h1>, <h2>, <p>`
 • Class selector -.note {} – any element that has class=”note”
 o P.note {} – any <p> elements that has class=”note”
 • ID selector – #introduction {} - elements whose ID value is introduction
 • Child selector – li>a {} – any <a> elements in <li>
 • Descendant selector – p a {} – any <a> elemts that sit inside <p>
-• Adjacent sibling – h1+p {} – first <p> element after <h1>
-• General sibling – h1~p {} - any <p> elements after <h1>
+• Adjacent sibling – h1+p {} – first `<p>` element after `<h1>`
+• General sibling – h1~p {} - any `<p>` elements after `<h1>`
 Attribute Selectors:
 • Existence – p[class] {} – targets any <p> element with attribute called class
 • Equality – p[class=”word”] {} – targets any <p> element with attribute class = “word”
