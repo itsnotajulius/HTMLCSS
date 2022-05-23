@@ -298,7 +298,7 @@ Using internal CSS:
 
 ### CSS Selectors:
 
-• Universal Selector - _{} – all <> elements
+• Universal Selector - \_{} – all <> elements
 • Type selector – h1, p ,h2 {} – all `<h1>, <h2>, <p>`
 • Class selector -.note {} – any element that has class=”note”
 o P.note {} – any `<p>` elements that has class=”note”
@@ -308,12 +308,14 @@ o P.note {} – any `<p>` elements that has class=”note”
 • Adjacent sibling – h1+p {} – first `<p>` element after `<h1>`
 • General sibling – h1~p {} - any `<p>` elements after `<h1>`
 Attribute Selectors:
-• Existence – p[class] {} – targets any <p> element with attribute called class
-• Equality – p[class=”word”] {} – targets any <p> element with attribute class = “word”
-• Space – p[class~=”dog”] {} – targets <p> with attribute class and list of words with one being dog
-• Prefix – p[attr^=”d”] {} – targets <p> with attribute’s value that begins with “d”
-• Suffix – p[attr$=”g”] {} – targets <p>with attribute’s value ending with “g”
-• Substring – p[attr_=”do”] {} – targets <p> elements with attribute containing “do”
+
+- Selecting
+  • Existence – p[class] {} – targets any <p> element with attribute called class
+  • Equality – p[class=”word”] {} – targets any <p> element with attribute class = “word”
+  • Space – p[class~=”dog”] {} – targets <p> with attribute class and list of words with one being dog
+  • Prefix – p[attr^=”d”] {} – targets <p> with attribute’s value that begins with “d”
+  • Suffix – p[attr$=”g”] {} – targets <p>with attribute’s value ending with “g”
+  • Substring – p[attr_=”do”] {} – targets <p> elements with attribute containing “do”
 
 CSS Rules Cascade:
 • Last Rule
